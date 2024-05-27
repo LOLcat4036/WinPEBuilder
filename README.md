@@ -21,9 +21,3 @@ Now we are almost ready to create our WinPE:
 ------------
 #### Run as Administrator: WinPEBuilder.bat
 Your WinPE ISO will be ready in 2 to 5 minutes.
-
-
-## Donate:
-If this project helps, you can give me a cup of coffee ;).
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5NWDHDEXV9582&source=url)
